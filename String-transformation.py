@@ -6,7 +6,6 @@ import random
 import re
 import sys
 
-
 class Car:
     def __init__(self,a,b):
         self.a = a
